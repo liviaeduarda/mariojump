@@ -6,5 +6,5 @@ Um jogo simples inspirado no Super Mário feito com HTML, CSS Keyframes e JavaSc
 
 ## Imagens 
 
-![mariojump1](https://user-images.githubusercontent.com/94557742/206914606-fefdaa5a-49a9-49b9-bf47-413d3db8bd0a.jpeg)
-![mariojump2](https://user-images.githubusercontent.com/94557742/206914613-82de63de-2d66-4bad-982c-42b7e58dd7e2.jpeg)
+![mariojump1 (2)](https://user-images.githubusercontent.com/94557742/206914947-ee4d9f90-b9c9-4ad1-b044-1d72af053167.jpeg)
+![mariojump2 (1)](https://user-images.githubusercontent.com/94557742/206914955-7936a4a4-aa45-4295-b3d0-f0a5b9d2f58c.jpeg)
