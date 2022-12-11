@@ -1,4 +1,4 @@
-![mario-logo](https://user-images.githubusercontent.com/94557742/206913948-a7958051-79c2-472a-8567-b3ec1207dbe5.jpg)
+![mario-logo1](https://user-images.githubusercontent.com/94557742/206914504-a94a9979-5793-4450-a066-1f8cd03252b1.png)
 
 ## Descrição 
 
